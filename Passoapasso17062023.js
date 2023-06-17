@@ -1,6 +1,6 @@
 
-var altura = 1.54
-var peso = 38
+var altura = 1.60
+var peso = 53
 var imc = peso/(altura*altura)
 console.log ('o valor do imc é ' +imc)
 // Entre 18,5 e 24,99	Peso normal
